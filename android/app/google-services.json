@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "456567675872",
+    "project_id": "tawba-4c11b",
+    "storage_bucket": "tawba-4c11b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456567675872:android:1b49e8316bed70d608a985",
+        "android_client_info": {
+          "package_name": "com.example.tawba_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGQXkotigfe7-5QxF0Sglf07hcrRKupzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
